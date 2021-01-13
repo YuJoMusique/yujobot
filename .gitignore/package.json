@@ -1,0 +1,22 @@
+{
+  "name": "yujobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ffmpeg-static": "^4.2.7",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "opusscript": "0.0.7",
+    "parse-duration": "^0.4.4",
+    "ytdl-core": "^4.4.3"
+  }
+}
